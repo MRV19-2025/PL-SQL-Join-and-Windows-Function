@@ -69,7 +69,8 @@ Through SQL analysis using JOINs and Window Functions, management expects to:
 
 ### ERD
 
-https://github.com/MRV19-2025/-plsql_window_functions_29372_-RUTAGENGWA-Mugabo-Vaillant/blob/main/images/ERD.png
+![image alt](https://github.com/MRV19-2025/-plsql_window_functions_29372_-RUTAGENGWA-Mugabo-Vaillant/blob/main/ERD.png)
+
 ---
 
 ### Tables Description
