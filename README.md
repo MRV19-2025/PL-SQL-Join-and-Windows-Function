@@ -446,15 +446,6 @@ NTILE segmentation divided 12 active customers into four equal groups of 3 custo
 
 This assignment was completed in accordance with AUCA's academic integrity policies. All SQL queries were written independently, drawing upon official MySQL documentation, educational tutorials, and instructor guidance. Business interpretations reflect original analytical thinking applied to the Harmony Music Store scenario.
 
-### Personal Work Evidence
-
-**Screenshots demonstrating original implementation:**
--  Database schema created from scratch (`screenshots/10_er_diagram.png`)
--  Custom data set with 15 realistic records per table
--  All 5 JOIN types executed successfully with business-relevant results
--  All 4 window function categories implemented with accurate calculations
--  Comprehensive business analysis with actionable recommendations
-
 **Statement:**  
 I, RUTAGENGWA Mugabo Vaillant, confirm that this work represents my own understanding and effort. While I consulted official documentation and educational resources (properly cited above), all code, analysis, and insights are my original contributions.
 
